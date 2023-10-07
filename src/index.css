@@ -13,3 +13,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+header a{
+  margin: 0 15px;
+  text-decoration: none;
+  color: black;
+}
+
+header a.active {
+  color: rgb(201, 109, 109);
+}
